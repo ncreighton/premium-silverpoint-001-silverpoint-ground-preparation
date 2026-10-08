@@ -1,0 +1,2 @@
+# premium-silverpoint-001-silverpoint-ground-preparation
+Tired of inconsistent grounds ruining your silverpoint lines? Your wire gauge experiments lost in sketchbook margins? This Notion template turns chaos into reproducible recipes.  The Silverpoint Ground Preparation and Wire Gauge Log solves the chronic problem of lost data and inconsistent results in silverpoint drawing. It provides a structured sys
